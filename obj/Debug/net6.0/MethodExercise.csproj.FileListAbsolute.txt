@@ -1,0 +1,15 @@
+C:\Users\15103\source\repos\MethodExercise\obj\Debug\net6.0\MethodExercise.csproj.AssemblyReference.cache
+C:\Users\15103\source\repos\MethodExercise\obj\Debug\net6.0\MethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15103\source\repos\MethodExercise\obj\Debug\net6.0\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\15103\source\repos\MethodExercise\obj\Debug\net6.0\MethodExercise.AssemblyInfo.cs
+C:\Users\15103\source\repos\MethodExercise\obj\Debug\net6.0\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\15103\source\repos\MethodExercise\bin\Debug\net6.0\MethodExercise.exe
+C:\Users\15103\source\repos\MethodExercise\bin\Debug\net6.0\MethodExercise.deps.json
+C:\Users\15103\source\repos\MethodExercise\bin\Debug\net6.0\MethodExercise.runtimeconfig.json
+C:\Users\15103\source\repos\MethodExercise\bin\Debug\net6.0\MethodExercise.dll
+C:\Users\15103\source\repos\MethodExercise\bin\Debug\net6.0\ref\MethodExercise.dll
+C:\Users\15103\source\repos\MethodExercise\bin\Debug\net6.0\MethodExercise.pdb
+C:\Users\15103\source\repos\MethodExercise\obj\Debug\net6.0\MethodExercise.dll
+C:\Users\15103\source\repos\MethodExercise\obj\Debug\net6.0\ref\MethodExercise.dll
+C:\Users\15103\source\repos\MethodExercise\obj\Debug\net6.0\MethodExercise.pdb
+C:\Users\15103\source\repos\MethodExercise\obj\Debug\net6.0\MethodExercise.genruntimeconfig.cache
